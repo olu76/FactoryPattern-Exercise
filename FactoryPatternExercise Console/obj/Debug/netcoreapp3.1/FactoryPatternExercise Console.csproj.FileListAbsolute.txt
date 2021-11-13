@@ -1,0 +1,14 @@
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\bin\Debug\netcoreapp3.1\FactoryPatternExercise Console.exe
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\bin\Debug\netcoreapp3.1\FactoryPatternExercise Console.deps.json
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\bin\Debug\netcoreapp3.1\FactoryPatternExercise Console.runtimeconfig.json
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\bin\Debug\netcoreapp3.1\FactoryPatternExercise Console.runtimeconfig.dev.json
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\bin\Debug\netcoreapp3.1\FactoryPatternExercise Console.dll
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\bin\Debug\netcoreapp3.1\FactoryPatternExercise Console.pdb
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.csproj.AssemblyReference.cache
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.AssemblyInfoInputs.cache
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.AssemblyInfo.cs
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.csproj.CoreCompileInputs.cache
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.dll
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.pdb
+C:\Users\midas\Desktop\TestRepo\FactoryPatternExercise\FactoryPatternExercise Console\obj\Debug\netcoreapp3.1\FactoryPatternExercise Console.genruntimeconfig.cache
